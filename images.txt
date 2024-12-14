@@ -1,1 +1,1 @@
-nginx:latest
+mysql:5.7
